@@ -20,6 +20,20 @@ Or install it yourself as:
 
     $ gem install hanami-auth
 
+### Turn on in hanami app
+Mount `Auth::Application` to your enviroment file:
+
+```ruby
+# config/environment.rb
+
+require 'hanami/auth'
+
+Hanami.configure do
+  mount Auth::Application, at: '/account'
+  # ...
+end
+```
+
 ## Usage
 
 TODO: Write usage instructions here
