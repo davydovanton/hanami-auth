@@ -32,6 +32,11 @@ Hanami.configure do
 end
 ```
 
+## TODO
+* add warden for session managment
+* add account model
+* register, login and logout accounts
+
 ## Usage
 
 TODO: Write usage instructions here
