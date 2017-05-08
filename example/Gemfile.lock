@@ -138,6 +138,8 @@ GEM
     transproc (1.0.2)
     url_mount (0.2.1)
       rack
+    warden (1.2.7)
+      rack (>= 1.0)
     xpath (2.0.0)
       nokogiri (~> 1.3)
 
@@ -153,6 +155,7 @@ DEPENDENCIES
   rake
   shotgun
   sqlite3
+  warden
 
 BUNDLED WITH
    1.13.7
