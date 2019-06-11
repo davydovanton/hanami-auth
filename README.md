@@ -1,3 +1,5 @@
+# NOT MAINTAINED
+
 # Hanami::Auth
 
 Prototype for hanami auth app. Inspired by [clearance](https://github.com/thoughtbot/clearance)
