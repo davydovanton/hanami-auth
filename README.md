@@ -1,4 +1,5 @@
 # NOT MAINTAINED
+**This repository is no longer maintain**
 
 # Hanami::Auth
 
